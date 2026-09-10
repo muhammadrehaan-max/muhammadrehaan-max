@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Muhammad Rehaan 👋
 
-<!--
-**muhammadrehaan-max/muhammadrehaan-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BS Computer Science student at the University of Management and Technology (UMT).
 
-Here are some ideas to get you started:
+I'm interested in Machine Learning, Data Analytics, Software Development, and building practical projects while continuously learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Interests
+
+- Machine Learning
+- Data Analytics
+- Software Development
+- Mobile App Development
+- Artificial Intelligence
+
+## Languages & Technologies
+
+- C++
+- Python
+- Flutter & Dart
+- SQL
+- Git & GitHub
+
+## Connect with Me
+
+- LinkedIn: [Muhammad Rehaan](https://www.linkedin.com/in/muhammad-rehaan)
